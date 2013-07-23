@@ -21,9 +21,9 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 
 public class MainScreen extends Activity {
-    private final String QUIT = "Уходим";
-    private final String CONTINUE = "Продолжить";
-    private final String START_NEW = "Начать заново";
+    private final String QUIT = "РќР°С‡Р°С‚СЊ РЅРѕРІСѓСЋ";
+    private final String CONTINUE = "РџСЂРѕРґРѕР»Р¶РёС‚СЊ";
+    private final String START_NEW = "Р’С‹С…РѕРґ";
     private Context context;
     private final int WRAP_CONTENT = LinearLayout.LayoutParams.WRAP_CONTENT;
     private final int MATCH_PARENT = LinearLayout.LayoutParams.MATCH_PARENT;
